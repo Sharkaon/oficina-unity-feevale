@@ -6,7 +6,7 @@ public class PipeSpawnScript : MonoBehaviour
 {
     public GameObject pipe;
     private float spawnRate = 2;
-    private float heightOffset = 5;
+    private float heightOffset = 4;
     private float timer = 0;
 
     // Start is called before the first frame update
